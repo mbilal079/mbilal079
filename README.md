@@ -19,15 +19,19 @@ I am a highly experienced and Microsoft certified Dynamics 365 Sales developer w
 **<h3>Certifications:</h3>**
 
 **Power Platform Fundamentals**
-Pl-900: [https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url](https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url)
+
+PL-900: [https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url](https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url)
 
 **Power Platform Developer**
+
 PL-400:     [https://www.credly.com/badges/f71852f9-b259-4cfe-b22f-afd3a26d809e/public_url](https://www.credly.com/badges/f71852f9-b259-4cfe-b22f-afd3a26d809e/public_url)
 
 **Microsoft Dynamics 365 Customization and Configuration**
+
 Exam 716:  [https://www.credly.com/badges/ddfb5f42-a8f6-4abd-944b-476948f46d30/public_url](https://www.credly.com/badges/ddfb5f42-a8f6-4abd-944b-476948f46d30/public_url)
 
 **Microsoft Certified Trainer**
+
 [https://www.credly.com/badges/7cd094ba-f5ca-4be3-9a81-0840b1595312/public_url](https://www.credly.com/badges/7cd094ba-f5ca-4be3-9a81-0840b1595312/public_url)
 
 **<h3>Collaboration and Learning:</h3>**
