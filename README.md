@@ -4,7 +4,7 @@
 <br>
 I am a highly experienced and Microsoft certified Dynamics 365 Sales developer with over 7 years of dedicated service in the field of Information Technology. My passion lies in harnessing the power of Microsoft technologies to create seamless and efficient solutions for businesses.
 
-**<h5>Skills and Expertise:</h5>**
+**<h3>Skills and Expertise:</h3>**
 
 **Microsoft Dynamics 365:** With in-depth knowledge and hands-on experience, I specialize in customizing and optimizing Dynamics 365 Sales to meet the unique needs of businesses.
 
@@ -16,9 +16,25 @@ I am a highly experienced and Microsoft certified Dynamics 365 Sales developer w
 
 **Power BI:** I excel in creating compelling data visualizations and reports using Power BI, transforming data into actionable insights.
 
-**<h5>Collaboration and Learning:</h5>**
+**<h3>Certifications:</h3>**
+
+**Power Platform Fundamentals**
+Pl-900: [https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url](https://www.credly.com/badges/c4dcbb89-788e-4e72-a4f4-665d79afd65b/public_url)
+
+**Power Platform Developer**
+PL-400:     [https://www.credly.com/badges/f71852f9-b259-4cfe-b22f-afd3a26d809e/public_url](https://www.credly.com/badges/f71852f9-b259-4cfe-b22f-afd3a26d809e/public_url)
+
+**Microsoft Dynamics 365 Customization and Configuration**
+Exam 716:  [https://www.credly.com/badges/ddfb5f42-a8f6-4abd-944b-476948f46d30/public_url](https://www.credly.com/badges/ddfb5f42-a8f6-4abd-944b-476948f46d30/public_url)
+
+**Microsoft Certified Trainer**
+[https://www.credly.com/badges/7cd094ba-f5ca-4be3-9a81-0840b1595312/public_url](https://www.credly.com/badges/7cd094ba-f5ca-4be3-9a81-0840b1595312/public_url)
+
+**<h3>Collaboration and Learning:</h3>**
 
 I am enthusiastic about collaborating with like-minded professionals and continually expanding my skill set. I am open to sharing knowledge, insights, and experiences to foster growth and development in the tech industry.
+
+**<h3>Recent:</h3>**
 
 - 🔭 I’m currently working on **Work Base Learning System in Power Apps Portals**
 
@@ -34,17 +50,36 @@ I am enthusiastic about collaborating with like-minded professionals and continu
 
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/bilal79](https://www.upwork.com/freelancers/bilal79)
 
-<h3 align="left">Connect with me:</h3>
+**<h3>Projects</h3>**
+- HubSpot Integration with Dynamics CRM (Azure Functions, Hubspot, Web Resources, Power Apps)
+
+- Sitefinity Integration with Dynamics CRM
+
+- TrackLean Integration with Dynamics 365 (E-Sign system)
+
+- Supplier Relationship Management (Power Apps, Canvas)
+
+- Leads Management (Power Apps, Canvas)
+
+- Partnership Management (Power Apps, Model driven)
+
+- Team Member Management Suite (Power App, Canvas)
+
+**<h3 align="left">Connect with me:</h3>**
 <p align="left">
 <a href="https://linkedin.com/in/muhammadbilal079/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadbilal079" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6688092/muhammad-bilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-bilal" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+**<h3 align="left">Languages and Tools:</h3>**
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
+<br>
+<br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mbilal079"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbilal079" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mbilal079"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbilal079" /></a></p>
+<br><br>
+
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbilal079&show_icons=true&locale=en&layout=compact" alt="mbilal079" /></p>
 -->
